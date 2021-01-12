@@ -2,7 +2,7 @@
  
 Básicamente, la pila MERN es un conjunto de marcos/tecnologías utilizados para el desarrollo web de aplicaciones que consta de MongoDB, React JS, Express JS y Node JS como sus componentes. Pero ¿por qué estos y no otros? Quizá la mejor explicación sería detallar las características de cada uno de ellos
 
-### Mongo
+### Mongo DB
 
 MongoDB es una de las bases de datos NoSQL más sorprendentes que se conoce y está orientada a documentos. Una base de datos MongoDB se puede utilizar para almacenar los datos de la aplicación, cada registro es un documento que consta de pares clave-valor que son similares a los objetos JSON (JavaScript Object Notation). MongoDB es flexible y permite a sus usuarios crear esquemas, bases de datos, tablas, etc sin los requerimientos de una pesada base de datos SQL.
 
